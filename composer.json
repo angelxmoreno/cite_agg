@@ -1,0 +1,11 @@
+{
+    "name": "angelxmoreno/cite_agg",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Angel S. Moreno",
+            "email": "angelxmoreno@gmail.com"
+        }
+    ],
+    "require": {}
+}
